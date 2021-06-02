@@ -2,3 +2,4 @@
 test/** -linguist-detectable
 *.* linguist-detectable
 .gitattributes linguist-detectable
+*.md linguist-detectable
