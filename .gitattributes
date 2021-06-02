@@ -1,2 +1,2 @@
 
-test/*.* -linguist-detectable
+test/*.c -linguist-detectable
