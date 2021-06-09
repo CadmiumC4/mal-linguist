@@ -1,4 +1,4 @@
-some.awk linguist-detectable
+*.awk linguist-detectable
 some.awk linguist-language=Sed
 test/** -linguist-detectable
 *.* linguist-detectable
