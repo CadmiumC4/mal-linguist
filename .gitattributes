@@ -1,4 +1,4 @@
-
+some.awk linguist-detectable
 test/** -linguist-detectable
 *.* linguist-detectable
 .gitattributes linguist-detectable
