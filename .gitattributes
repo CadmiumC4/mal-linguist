@@ -1,4 +1,5 @@
 some.awk linguist-detectable
+some.awk linguist-language=Sed
 test/** -linguist-detectable
 *.* linguist-detectable
 .gitattributes linguist-detectable
